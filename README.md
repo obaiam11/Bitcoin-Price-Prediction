@@ -1,2 +1,2 @@
 # Bitcoin-Price-Prediction with Twitter Sentiment Analysis and Google Search Data
-# CS 230
+# CS 230 Final Project
